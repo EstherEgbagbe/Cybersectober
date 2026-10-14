@@ -11,3 +11,4 @@ Add one security tip per line, with your name. Keep it short and practical.
 - **Check linked devices regularly**, linked devices shows every computer or browser logged into your account. If you see a session you don't recognize, log it out right away. (@nyimenkabenson)
 - **Grandma, Grandpa: Never give anyone the code that comes by text message.**, real banks and companies will never ask you for that code. Only a thief would. (@nyimenkabenson)
 - **Always back up your important data.**, use cloud backup to keep a copy of important files safe, so you don’t lose everything if something happens to your device. (@EstherEgbagbe)
+- - **Review the permissions you have granted to your apps**, check what they can access, from your camera and microphone, to your files, contacts, location and other sensitive information. Turn off any permissions an app doesn’t need. (@EstherEgbagbe)
